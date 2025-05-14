@@ -1,6 +1,5 @@
 # lenis-in-reactjs-or-nextjs
 
-```
-bash
+```bash
 npm run dev
 ```
